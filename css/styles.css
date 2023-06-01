@@ -1,3 +1,23 @@
 body {
     background-color:rgb(205, 118, 122);
 }
+
+.hidden {
+    display: none;
+}
+
+#Coffee {
+    background-color: brown;
+}
+
+#Tea {
+    background-color: greenyellow;
+}
+
+#Kombucha {
+    background-color: blueviolet;
+}
+
+#Water {
+    background-color: aqua;
+}
